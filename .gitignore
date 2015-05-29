@@ -1,6 +1,7 @@
 composer.phar
 composer.lock
 vendor
+phpunit.xml
 
 # generic files to ignore
 *.lock
